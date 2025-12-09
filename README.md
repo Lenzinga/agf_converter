@@ -1,6 +1,7 @@
 # AGF Converter
 
 A Python tool to decrypt and convert `.agf` (AgData) field boundary files into standard ESRI Shapefiles (`.shp`), including WGS84 projection output.
+Based on this project: https://github.com/Bullhill/agf-converter
 
 ## Features
 
