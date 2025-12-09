@@ -1,0 +1,12 @@
+[project]
+name = "agf_converter"
+version = "0.1.0"
+description = "AGF Converter"
+requires-python = ">=3.11"
+
+# Your dependencies here
+dependencies = [
+  "cryptography",
+  "pyproj",
+  "pyshp",
+]
